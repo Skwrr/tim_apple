@@ -1,3 +1,5 @@
+# MOVED TO Skwrr/Dexterion DUE TO MAIN PROJECT ARCHIVATION
+
 # :apple: Tim Apple
 CS2 Semi External Cheat
 
